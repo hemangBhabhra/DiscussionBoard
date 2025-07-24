@@ -32,13 +32,13 @@ A full-stack web application built using **PHP**, **MySQL**, **HTML**, **CSS**, 
 ![Login Page](php-project/images/1.jpeg)
 
 ### 🏠 Home Page
-![Home Page](images/5.jpeg)
+![Home Page](php-project/images/5.jpeg)
 
 ### 📝 Post Question
-![Post Question](images/4.jpeg)
+![Post Question](php-project/images/4.jpeg)
 
 ### 📝 Database
-![Database](images/2.jpeg)
+![Database](php-project/images/2.jpeg)
 
 ## 🛠️ Installation Steps
 
