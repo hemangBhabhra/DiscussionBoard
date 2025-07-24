@@ -29,16 +29,16 @@ A full-stack web application built using **PHP**, **MySQL**, **HTML**, **CSS**, 
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](images/1.png)
+![Login Page](images/1.jpeg)
 
 ### 🏠 Home Page
-![Home Page](images/5.png)
+![Home Page](images/5.jpeg)
 
 ### 📝 Post Question
-![Post Question](images/4.png)
+![Post Question](images/4.jpeg)
 
 ### 📝 Database
-![Database](images/2.png)
+![Database](images/2.jpeg)
 
 ## 🛠️ Installation Steps
 
