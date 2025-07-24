@@ -26,6 +26,20 @@ A full-stack web application built using **PHP**, **MySQL**, **HTML**, **CSS**, 
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔐 Login Page
+![Login Page](images/1.png)
+
+### 🏠 Home Page
+![Home Page](images/5.png)
+
+### 📝 Post Question
+![Post Question](images/4.png)
+
+### 📝 Database
+![Database](images/2.png)
+
 ## 🛠️ Installation Steps
 
 1. **Clone the Repository**
