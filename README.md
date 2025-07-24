@@ -29,7 +29,7 @@ A full-stack web application built using **PHP**, **MySQL**, **HTML**, **CSS**, 
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page]([images/1.jpeg](https://github.com/hemangBhabhra/DiscussionBoard/blob/main/php-project/images/1.jpeg))
+![Login Page](php-project/images/1.jpeg)
 
 ### 🏠 Home Page
 ![Home Page](images/5.jpeg)
